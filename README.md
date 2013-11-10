@@ -1,2 +1,2 @@
-Bubble_Chart
+Bubble Chart
 ============
